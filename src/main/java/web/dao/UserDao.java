@@ -1,6 +1,6 @@
-package ru.kata.dao;
+package web.dao;
 
-import ru.kata.models.User;
+import web.models.User;
 
 import java.util.List;
 

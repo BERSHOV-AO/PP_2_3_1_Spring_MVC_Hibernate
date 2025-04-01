@@ -1,7 +1,7 @@
-package ru.kata.dao;
+package web.dao;
 
 import org.springframework.stereotype.Repository;
-import ru.kata.models.User;
+import web.models.User;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;

@@ -1,4 +1,4 @@
-package ru.kata.models;
+package web.models;
 
 import javax.persistence.*;
 
@@ -19,6 +19,10 @@ public class User {
     public User(String name, String email) {
         this.name = name;
         this.email = email;
+    }
+
+    public User(String name) {
+        this.name = name;
     }
 
     public User() {

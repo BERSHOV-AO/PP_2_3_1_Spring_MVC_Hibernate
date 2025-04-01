@@ -1,6 +1,6 @@
-package ru.kata.service;
+package web.service;
 
-import ru.kata.models.User;
+import web.models.User;
 
 import java.util.List;
 
